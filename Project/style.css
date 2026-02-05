@@ -1,0 +1,28 @@
+body{
+    background: #EEAECA;
+background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+
+}
+button{
+    background-color: rgb(63, 110, 232);
+     color: white;
+}
+td{
+    
+    align-items: center;
+    padding:10px 15px;
+}
+h1{
+    font-style:oblique;
+    /* align-items: center; */
+    /* padding-left: 40%; */
+    color: rgb(98, 5, 98);;
+}
+th{
+    background-color: rgb(98, 5, 98);
+    color: white;
+     
+}
+table{
+   background-color: rgb(238, 182, 236); 
+}
